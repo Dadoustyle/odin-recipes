@@ -1,1 +1,1 @@
-Basic recipe website to practice HTML. The Odin Project
+Basic recipe website to practice HTML. !The Odin Project!
